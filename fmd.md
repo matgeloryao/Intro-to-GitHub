@@ -1,3 +1,3 @@
 # Titile: "My First Markdown File"
-# Mark Andrew Gleoryao
+# Mark Andrew Geloryao
 # September 21, 2021
